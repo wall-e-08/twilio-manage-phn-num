@@ -1,0 +1,13 @@
+env/
+env3.6/
+.*\.pyc
+.*\.swp
+.*\.swo
+.*\.swn
+.idea/
+.DS_Store
+.hg/
+.hgignore
+.*__pycache__.*
+__pycache__/
+local_settings.py
